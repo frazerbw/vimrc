@@ -18,3 +18,5 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab " tabs to spaces
 set autoindent
+
+au FileType python setl sw=4 sts=4 et
