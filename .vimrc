@@ -19,4 +19,4 @@ set softtabstop=4
 set expandtab " tabs to spaces
 set autoindent
 
-au FileType python setl sw=4 sts=4 et
+au FileType haskell setl sw=2 sts=2 et
